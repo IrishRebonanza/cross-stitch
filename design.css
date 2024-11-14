@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+.black{
+    background-color: black;
+}
+.orange{
+    background-color: orange;
+}
